@@ -13,7 +13,7 @@ solution : day 1/index.html
 output : 
 ![day 1 output](day1.jpg.png)
 
-#DAY 2
+# DAY 2
 problem : Develop a single HTML page that demonstrates your understanding of tables and basic HTML forms
 
 solution : day 2/event.html
