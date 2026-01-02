@@ -11,5 +11,13 @@ problem : cretae a basic portfolio webpage using HTML
 solution : day 1/index.html
 
 output : 
-![day 1 output](day1.png.jpg)
+![day 1 output](day1.jpg.png)
+
+#DAY 2
+problem : Develop a single HTML page that demonstrates your understanding of tables and basic HTML forms
+
+solution : day 2/index.html
+
+output :
+![day 2 output](day2.jpg.png)
 
