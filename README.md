@@ -16,7 +16,7 @@ output :
 #DAY 2
 problem : Develop a single HTML page that demonstrates your understanding of tables and basic HTML forms
 
-solution : day 2/index.html
+solution : day 2/event.html
 
 output :
 ![day 2 output](day2.jpg.png)
