@@ -21,3 +21,13 @@ solution : day2/event.html
 output :
 ![day 2 output](day2.jpg.png)
 
+
+# DAY 3
+
+problem : improve the existing portfolio pages (index.html and about.html) using core css
+
+solution : day3/style.css
+
+output :
+![day 3 output](day3.jpg.png)
+
