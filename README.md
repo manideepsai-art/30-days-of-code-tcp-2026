@@ -26,7 +26,7 @@ output :
 
 problem : improve the existing portfolio pages (index.html and about.html) using core css
 
-solution : day3/style.css
+solution : day3/index.html
 
 output :
 ![day 3 output](day3.jpg.png)
